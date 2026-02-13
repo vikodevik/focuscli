@@ -7,7 +7,7 @@ setup(
     name="focuscli",
     version="0.1.0",
     author="Enes",
-    author_email="your.email@example.com",  # Update this
+    author_email="pypi.dole284@passinbox.com",
     description="A productivity CLI tool for developers",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -44,3 +44,4 @@ setup(
         ],
     },
 )
+
